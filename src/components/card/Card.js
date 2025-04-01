@@ -40,7 +40,7 @@ const StyledCard = styled.div`
     box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.2);
   }
 
-  &:hover .card-title {
+  &:hover {
     color: #83bf46;
   }
 `;
